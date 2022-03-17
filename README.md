@@ -1,5 +1,7 @@
 ### Public Link: https://sssoltannn.github.io/inspect-blocker
 
+<h2 style="display:flex; flex-direction:row; align-items:center;">That is <img style="width:100px;height:100px;padding:8px" src="./images/trollface.jpg"> for Fun</h2>
+
 <hr>
 
 ## Tutorial
